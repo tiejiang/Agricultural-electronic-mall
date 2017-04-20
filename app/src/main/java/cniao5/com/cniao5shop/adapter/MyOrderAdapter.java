@@ -18,10 +18,6 @@ import cniao5.com.cniao5shop.bean.Order;
 import cniao5.com.cniao5shop.bean.OrderItem;
 
 
-/**
- * Created by <a href="http://www.cniao5.com">菜鸟窝</a>
- * 一个专业的Android开发在线教育平台
- */
 public class MyOrderAdapter extends SimpleAdapter<Order> {
 
 

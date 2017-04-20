@@ -12,10 +12,6 @@ import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.utils.ToastUtils;
 
 
-/**
- * Created by <a href="http://www.cniao5.com">菜鸟窝</a>
- * 一个专业的Android开发在线教育平台
- */
 public abstract class SimpleCallback<T> extends BaseCallback<T> {
 
     protected Context mContext;

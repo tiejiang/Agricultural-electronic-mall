@@ -14,10 +14,6 @@ import android.view.View;
 import cniao5.com.cniao5shop.R;
 
 
-/**
- * Created by <a href="http://www.cniao5.com">菜鸟窝</a>
- * 一个专业的Android开发在线教育平台
- */
 public class ClearEditText extends AppCompatEditText implements View.OnTouchListener, View.OnFocusChangeListener, TextWatcher {
 
 

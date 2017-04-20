@@ -18,10 +18,6 @@ import cniao5.com.cniao5shop.bean.Page;
 import cniao5.com.cniao5shop.http.OkHttpHelper;
 import cniao5.com.cniao5shop.http.SpotsCallBack;
 
-/**
- * Created by <a href="http://www.cniao5.com">菜鸟窝</a>
- * 一个专业的Android开发在线教育平台
- */
 public class Pager {
 
 

@@ -27,10 +27,6 @@ import cniao5.com.cniao5shop.utils.Pager;
 import cniao5.com.cniao5shop.widget.CNiaoToolBar;
 
 
-/**
- * Created by <a href="http://www.cniao5.com">菜鸟窝</a>
- * 一个专业的Android开发在线教育平台
- */
 public class WareListActivity extends AppCompatActivity  implements Pager.OnPageListener<Wares>,TabLayout.OnTabSelectedListener,View.OnClickListener {
 
     private static final String TAG = "WareListActivity";
@@ -87,7 +83,6 @@ public class WareListActivity extends AppCompatActivity  implements Pager.OnPage
         initTab();
 
         getData();
-
 
     }
 

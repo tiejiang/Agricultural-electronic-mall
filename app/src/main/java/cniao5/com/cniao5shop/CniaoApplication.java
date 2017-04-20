@@ -9,10 +9,6 @@ import com.facebook.drawee.backends.pipeline.Fresco;
 import cniao5.com.cniao5shop.bean.User;
 import cniao5.com.cniao5shop.utils.UserLocalData;
 
-/**
- * Created by <a href="http://www.cniao5.com">菜鸟窝</a>
- * 一个专业的Android开发在线教育平台
- */
 public class CniaoApplication extends Application {
 
     private User user;

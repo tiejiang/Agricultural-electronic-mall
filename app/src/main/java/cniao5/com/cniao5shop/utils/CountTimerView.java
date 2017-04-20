@@ -5,14 +5,6 @@ import android.widget.TextView;
 
 import cniao5.com.cniao5shop.R;
 
-/**
- *
- * Autor： <a href="http://www.cniao5.com">菜鸟窝</a>
- * Description：
- * <p/>
- * 菜鸟窝是一个只专注做Android开发技能的在线学习平台，课程以实战项目为主，
- * 对课程与服务”吹毛求疵”般的要求，打造极致课程，是菜鸟窝不变的承诺
- */
 public class CountTimerView extends CountDownTimer {
 
     public static final int TIME_COUNT = 61000;//时间防止从59s开始显示（以倒计时60s为例子）

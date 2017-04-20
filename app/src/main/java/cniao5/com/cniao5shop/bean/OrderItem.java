@@ -1,9 +1,3 @@
-/*
-*User.java
-*Created on 2015/11/18 下午3:44 by Ivan
-*Copyright(c)2014 Guangzhou Onion Information Technology Co., Ltd.
-*http://www.cniao5.com
-*/
 package cniao5.com.cniao5shop.bean;
 
 import java.io.Serializable;

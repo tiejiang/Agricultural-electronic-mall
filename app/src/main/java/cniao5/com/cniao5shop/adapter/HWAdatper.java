@@ -14,10 +14,6 @@ import cniao5.com.cniao5shop.bean.Wares;
 import cniao5.com.cniao5shop.utils.CartProvider;
 import cniao5.com.cniao5shop.utils.ToastUtils;
 
-/**
- * Created by <a href="http://www.cniao5.com">菜鸟窝</a>
- * 一个专业的Android开发在线教育平台
- */
 public class HWAdatper extends SimpleAdapter<Wares> {
 
 
