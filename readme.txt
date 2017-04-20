@@ -1,0 +1,8 @@
+通过主页加载五个tag，也就是“主页”“热卖”“分类”“购物车”“我的”。这些标签里面通过自己的类在服务加载资源
+
+主页 banner
+[{"id":1,"name":"音箱狂欢","imgUrl":"http://7mno4h.com2.z0.glb.qiniucdn.com/5608f3b5Nc8d90151.jpg","type":1},{"id":2,"name":"手机国庆礼","imgUrl":"http://7mno4h.com2.z0.glb.qiniucdn.com/5608eb8cN9b9a0a39.jpg","type":1},{"id":3,"name":"IT生活","imgUrl":"http://7mno4h.com2.z0.glb.qiniucdn.com/5608cae6Nbb1a39f9.jpg","type":1},{"id":4,"name":"母婴萌宝","imgUrl":"http://7mno4h.com2.z0.glb.qiniucdn.com/5608b7cdN218fb48f.jpg","type":1},{"id":5,"name":"国庆大礼包","imgUrl":"http://7mno4h.com2.z0.glb.qiniucdn.com/560b5a7eN214306c8.jpg","type":1},{"id":6,"name":"手机大放假","imgUrl":"http://7mno4h.com2.z0.glb.qiniucdn.com/560a409eN35e252de.jpg","type":1}]
+
+
+分类
+[{"id":1,"name":"热门推荐","sort":1},{"id":2,"name":"品牌男装","sort":2},{"id":3,"name":"内衣配饰","sort":3},{"id":4,"name":"家用电器","sort":4},{"id":5,"name":"电脑办公","sort":5},{"id":6,"name":"手机数码","sort":6},{"id":7,"name":"母婴频道","sort":7},{"id":8,"name":"图书","sort":8},{"id":9,"name":"家居家纺","sort":9},{"id":10,"name":"居家生活","sort":10},{"id":11,"name":"个性化妆","sort":11},{"id":12,"name":"鞋靴箱包","sort":12},{"id":14,"name":"奢侈礼品","sort":14},{"id":15,"name":"珠宝饰品","sort":15}]
