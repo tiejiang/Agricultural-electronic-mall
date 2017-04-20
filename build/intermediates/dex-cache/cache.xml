@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/baidupaysdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a3a770969a03fb7c1b424deaea6e18fe1e59de5b">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/AgriculturalElecMall-baidupaysdk-unspecified_4e6895ed1c64f3adddb2a26bd8bfbcef93b4e975.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/paysdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8538eab14c3baf2e5d93c9440bf1aaeaa4aeb6da">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/AgriculturalElecMall-paysdk-unspecified_189dd16211a71d0687e5484bc72c400328eed81f.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/paysdk/unspecified/jars/libs/alipaySDK-20150818.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="11ee0159af9bd1d1cef1b1e7e5aaba78ce99aa3e">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/alipaySDK-20150818_6e0394d679de4f82e31f65829b15116f48c4e6da.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/library-2.4.0_0cb79955ecfb2c1f421b72402072d5480ee6a165.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/sharesdk/unspecified/jars/libs/ShareSDK-SinaWeibo-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="719f4ac7b5cb76afa4c4594a2b2dcdb138c68b80">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/ShareSDK-SinaWeibo-2.6.4_f494fe019ffa680157be9818f561cd8e986c6466.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/sharesdk/unspecified/jars/libs/ShareSDK-QQ-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e11ec8f4b532f63f498b51d486f5e2079b266c71">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/ShareSDK-QQ-2.6.4_ca70ced88e7593b0a15c64aa26af16da08985117.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/baidupaysdk/unspecified/jars/libs/Cashier_SDK-v4.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e73cb8072261c6b192069f0ba6a8666d2b015e1">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/Cashier_SDK-v4.2.0_5c88998e5510bca8e97784ead9dd907948f1d30c.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.w4lle.library/NineLayout/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77a3708405f2f35445d7533217d93b8b10bec62f">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.w4lle.library-NineLayout-1.0.0_a38aa7608e14116518374bdc730d351d73024951.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.daimajia.slider-library-1.1.5_c82d99830eaf301b5260fccba7bdca273c327496.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.jiechic.library/xUtils/2.6.14/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fe75606aa9485cd20177894c204291a79a0cc7ab">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.jiechic.library-xUtils-2.6.14_c34b37fe9bfe0de2a98505d2e1a5621fec76aed4.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_5d963f60b5fbe2f5d016b1e3b78170c2d963389b.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.bigkoo/pickerview/2.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0504516e1f6d20b7975f2a6b1c31f32383fefe8e">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.bigkoo-pickerview-2.0.3_f6e09b2d17cdb2688acb89d0c94791e96748e213.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/sharesdk/unspecified/jars/libs/ShareSDK-Wechat-Favorite-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6b6299a0da078bf5abc56eca82c6c974ccfb5f5f">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Favorite-2.6.4_8028c68f006ece9731381b9cfdc556c1d999a1fd.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/sharesdk/unspecified/jars/libs/MobCommons.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d01264080d1441286b8d1d46b1b54c4948766fa9">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/MobCommons_747b91b1d4402062f187ab0deebd6d5db915e004.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="279847192a8f88159621326f6d62b5c9a206222d">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp-0.12.0_0ece1f8e2d6656db8cf3d3b9e52e26ef9ce76c46.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/gloablelibrary/unspecified/jars/libs/MobTools.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="47a9b532a323cf0bb249d0327d0e02a901db092d">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/MobTools_105cdc057309f5594c708213e1c6776990977c52.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_406f262f2231ae16b54feb19bffdcf716f210f92.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_bca6444686e9e838f2d3ff584fc596bdbfa221e7.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/sharesdk/unspecified/jars/libs/ShareSDK-TencentWeibo-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a385dbe07abe5b2365d84249cde44d3cb1923540">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/ShareSDK-TencentWeibo-2.6.4_0fa920f3c9f6039950c04c78a8138b21f98b5cbe.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_55db00f8220504582bf579adb8fa8e2b9cf77dbc.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_ef39c834fc41d268c6cf3fa58a6bc332895c2ca1.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/smssdk/unspecified/jars/libs/SMSSDK-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="17e795b7bb4dabdd09142dc10a7bd00b1bfaa85f">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/SMSSDK-1.3.1_e964a03a6ab0bed947ec5072a1b1a0a9fa4df9cd.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_0c09e4e25f8e6db67e25f0f0c3d15285f68544e6.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_6e43bbb3d631fb9016e90e9f8881b6d7856c47b2.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.github.d-max/spots-dialog/0.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.github.d-max-spots-dialog-0.4_b5f4757a5c2a8e08380b09f2f7696cfe4e4e8063.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_800591c2fa6b9b2da584fb1476fb0c745b8611df.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.12.0_eb5ff5438149c9733c15a1770a02134ad81a27ca.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.12.0_534e91ac46a38a2a9e504e5c80207fb15db500f5.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_011abe56ddb906f12fe35bbbab0a9e9e2d2d3794.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.12.0_d78a7ff124359135491ff601209aa06dbb0258b0.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/sharesdk/unspecified/jars/libs/ShareSDK-Core-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a04b796870bcb8daf260591dac623351da79f2c6">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/ShareSDK-Core-2.6.4_a771c646f1f4fb0a436dd0e71fe4382691934c0e.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/gloablelibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c3cf242922b65daa3a9f3b9dedda414e4f1f89a3">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/AgriculturalElecMall-gloablelibrary-unspecified_07af8606e65faf2c760ebee0c26ae03bd6f6de74.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/sharesdk/unspecified/jars/libs/ShareSDK-Wechat-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c076b2ee90aec4277144ad97f0dc079f76c3c16c">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-2.6.4_b1447e65a01bb9783c36f1f9e725803d177d52f8.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/sharesdk/unspecified/jars/libs/ShareSDK-QZone-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec5dc2ea79802faa384a45303acc263ccaf5ecad">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/ShareSDK-QZone-2.6.4_cc0a72371683531e9735ba1eac695e2c0ac015ef.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/sharesdk/unspecified/jars/libs/ShareSDK-Wechat-Core-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="22b3ff8c621df212bcb77741542f7c723b603634">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Core-2.6.4_81e54c0279f554a0c9559a3b679315175f778c53.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/gson-2.3.1_2292b030ab53af1a20f9f25ca8ce07d6c9f417f3.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.cjj.materialrefeshlayout/library/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="597d857fe9b090c4582f0855a2c6d6cc45fec544">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.cjj.materialrefeshlayout-library-1.3.0_a82c65a46c200f36878662f549420aaa98e9f0ca.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.12.0_0c8eebf15518d3ba6879bdfbd96721b28e3df189.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/paysdk/unspecified/jars/libs/UPPayAssistEx.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ff6aae10bca3d5a7104ff573734621372d41cd0f">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/UPPayAssistEx_1e6f7a658c7ad0cb42f74c75836da42c7247a9c3.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d788051ae62992137fe58a40e549651aeeff0747.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/okio-1.6.0_0c916347c5d6dd43c29c7c5ab89a7d25529e99e7.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/paysdk/unspecified/jars/libs/libammsdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e1ac1daf796ff9f951fa0f2374e9916008c08c42">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/libammsdk_f1111e3d7b02c1403f9c853a93c0dcfcd2b6e892.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/sharesdk/unspecified/jars/libs/ShareSDK-Wechat-Moments-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ad6df73ad8b51273c110d4f08d382b20c67369fd">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Moments-2.6.4_c1345f656508c4a77c87fdefc4e1683391c993fa.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.0.0_00546e732ce30c8d4bee8312d668d0fe698da599.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/software/androidStudio/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_ccb1ac760fd6d954ccf405987b55216229d9b598.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/smssdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="654b740dc2549d49a07ca527a5a320d8dcb76ec1">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/AgriculturalElecMall-smssdk-unspecified_137ddc252006d3d65b2bf317000fdd4473ade4cf.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/paysdk/unspecified/jars/libs/libpingpp-2.0.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5757e5f08eea3987f71de46331dc832cb8bd1e5d">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/libpingpp-2.0.6_e80975737ed1c290e14056c15de1e9bb722fe8ce.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/smssdk/unspecified/jars/libs/MobLogCollector.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b35ed28134ebe28c5348d665a016f46538cf781f">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/MobLogCollector_46fc7eec44d90cc0debce585248a8f4c16b7650b.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/sharesdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d14c660befa3a4c418eccf9125d2c7552815f4d">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/AgriculturalElecMall-sharesdk-unspecified_988c87ced19d04e619a2947c1e3101a9d7ca77b2.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/AgriculturalElecMall/paysdk/unspecified/jars/libs/UPPayPluginEx.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b6e9071490f117b443dc594780964db629629054">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/UPPayPluginEx_28018fb52b79f33f29201ce86c647edb0df73493.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.4/f2c0782541a970b3c15f5e742999ca264b34d0bd/okhttp-2.7.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2c0782541a970b3c15f5e742999ca264b34d0bd">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/okhttp-2.7.4_4554663db94afe79a72dd6e5ac07bb5cf4fd64f1.jar" />
+    </item>
+    <item
+        jar="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="/home/tiejiang/AndroidStudioProjects/AgriculturalElecMall/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.12.0_4fc1cc1da0fe19c956409d260c05b74414129466.jar" />
+    </item>
+
+</items>

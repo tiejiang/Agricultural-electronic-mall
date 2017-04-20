@@ -1,6 +1,7 @@
 package cniao5.com.cniao5shop.utils;
 
 import android.content.Context;
+import android.util.Log;
 import android.widget.Toast;
 
 import com.cjj.MaterialRefreshLayout;
@@ -168,7 +169,10 @@ public class Pager {
      */
     private String buildUrl(){
 
-        return builder.mUrl +"?"+buildUrlParams();
+        String url = builder.mUrl +"?"+buildUrlParams();
+        Log.d("TIEJIANG", "total URL = " + url);
+        return url;
+
     }
 
 
