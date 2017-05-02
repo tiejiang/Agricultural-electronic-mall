@@ -23,7 +23,6 @@
     <uses-permission android:name="android.permission.WRITE_SETTINGS" />
     <uses-permission android:name="android.permission.READ_SMS" />
 
-    <!-- <uses-sdk tools:overrideLibrary="com.cniao5.paysdk,com.cniao5.baidupaysdk"/> -->
     <application
         android:name=".CniaoApplication"
         android:allowBackup="true"
